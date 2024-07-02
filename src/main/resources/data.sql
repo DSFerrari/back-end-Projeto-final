@@ -1,0 +1,1 @@
+INSERT INTO TBL_AGENDA(NOME, EMAIL, TELEFONE, CATEGORIA, FAVORITO, GENERO) VALUES ('Carlos','teste@gmail.com','11987654321','amigo','false','masculino')
